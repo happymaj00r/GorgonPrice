@@ -82,12 +82,11 @@ async function loadPriceData() {
        
 
         // Fetch from server
-        const response = await fetch(API_URL, {
-            headers: {
-                'Accept': 'application/json',
-                'Cache-Control': 'no-cache'
-            }
-        });
+       const response = await fetch(API_URL, {
+    headers: {
+        'Accept': 'application/json'
+    }
+});
 
         if (!response.ok) {
             throw new Error(`Server error: ${response.status}`);

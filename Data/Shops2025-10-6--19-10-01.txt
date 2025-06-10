@@ -1,0 +1,1017 @@
+Obsidian:135:2025-10-6--19-10-01
+Agate:140:2025-10-6--19-10-01
+Malachite:140:2025-10-6--19-10-01
+Fluorite:140:2025-10-6--19-10-01
+Azurite:140:2025-10-6--19-10-01
+Serpentine:145:2025-10-6--19-10-01
+Tourmaline:140:2025-10-6--19-10-01
+Tsavorite:135:2025-10-6--19-10-01
+Lapis Lazuli:140:2025-10-6--19-10-01
+Moonstone:145:2025-10-6--19-10-01
+Bloodstone:145:2025-10-6--19-10-01
+Carnelian:150:2025-10-6--19-10-01
+Blue Spinel:140:2025-10-6--19-10-01
+Topaz:150:2025-10-6--19-10-01
+Moss Agate:150:2025-10-6--19-10-01
+Quartz:145:2025-10-6--19-10-01
+Citrine:145:2025-10-6--19-10-01
+Onyx:150:2025-10-6--19-10-01
+Peridot:140:2025-10-6--19-10-01
+Diamond:400:2025-10-6--19-10-01
+Amethyst:400:2025-10-6--19-10-01
+Aquamarine:500:2025-10-6--19-10-01
+Sunstone:500:2025-10-6--19-10-01
+Danburite:500:2025-10-6--19-10-01
+Goshenite:500:2025-10-6--19-10-01
+Opal:150:2025-10-6--19-10-01
+Sapphire:1000:2025-10-6--19-10-01
+Ruby:1200:2025-10-6--19-10-01
+Turquoise:150:2025-10-6--19-10-01
+Winterprize:1500:2025-10-6--19-10-01
+Morganite:4000:2025-10-6--19-10-01
+Tiger's Eye:4500:2025-10-6--19-10-01
+Glowy Yellow Crystal:1250:2025-10-6--19-10-01
+Coated Glowy Yellow Crystal:2000:2025-10-6--19-10-01
+Vervadium:4000:2025-10-6--19-10-01
+Enhanced Yarn:3900:2025-10-6--19-10-01
+Fae Silk:4000:2025-10-6--19-10-01
+Caged Pet:35000:2025-10-6--19-10-01
+Fairy Magic Topaz:375:2025-10-6--19-10-01
+Spirit Fox Lapis:375:2025-10-6--19-10-01
+Bat Malachite:375:2025-10-6--19-10-01
+Cow Malachite:375:2025-10-6--19-10-01
+Deer Malachite:375:2025-10-6--19-10-01
+Pig Malachite:375:2025-10-6--19-10-01
+Rabbit Malachite:375:2025-10-6--19-10-01
+Spider Malachite:375:2025-10-6--19-10-01
+Horse Apple Seedling:375:2025-10-6--19-10-01
+Fairy Wing:150:2025-10-6--19-10-01
+Pixie Sugar:1000:2025-10-6--19-10-01
+Bone Meal:33:2025-10-6--19-10-01
+Armor Potion Ultra:900:2025-10-6--19-10-01
+Large Off-Hand Bead:700:2025-10-6--19-10-01
+Spruce Mushroom Box Frame:500:2025-10-6--19-10-01
+Maple Mushroom Box Frame:500:2025-10-6--19-10-01
+Basilisk Tail Tip:1500:2025-10-6--19-10-01
+Smooth Animal Fat:10000:2025-10-6--19-10-01
+Sandbag:600:2025-10-6--19-10-01
+Eel:300:2025-10-6--19-10-01
+Lost Notus Record:8000:2025-10-6--19-10-01
+Enchanted Construction Nail:1000:2025-10-6--19-10-01
+Small Blue Dragon Scale:2000:2025-10-6--19-10-01
+Small Yellow Dragon Scale:500:2025-10-6--19-10-01
+Scorpion Stinger:500:2025-10-6--19-10-01
+Cactus Juice:800:2025-10-6--19-10-01
+Toxic Sludge:420:2025-10-6--19-10-01
+Cotton:90:2025-10-6--19-10-01
+Ambient Magic Sponge:4000:2025-10-6--19-10-01
+Giant Snail Shell:900:2025-10-6--19-10-01
+Perfect Giant Snail Shell:900:2025-10-6--19-10-01
+Snail Sinews:800:2025-10-6--19-10-01
+Fulgurite:700:2025-10-6--19-10-01
+Sulfur:350:2025-10-6--19-10-01
+Lemon:500:2025-10-6--19-10-01
+Ink Remover:500:2025-10-6--19-10-01
+Filthy Animal Fat:900:2025-10-6--19-10-01
+Saltpeter:600:2025-10-6--19-10-01
+Tailoring: Awesome Fiery Masquerade Mask:199000:2025-10-6--19-10-01
+Charged Mycelium:175:2025-10-6--19-10-01
+Wizard's Mushroom:160:2025-10-6--19-10-01
+Porcini Mushroom:125:2025-10-6--19-10-01
+Groxmax Mushroom:95:2025-10-6--19-10-01
+Black Foot Morel:145:2025-10-6--19-10-01
+Dark Red Dye:15000:2025-10-6--19-10-01
+Cadet Blue Dye:10000:2025-10-6--19-10-01
+I.O.U. Quest Reward:2000000:2025-10-6--19-10-01
+Dye Making: Electric Cyan Dye:4500:2025-10-6--19-10-01
+Dye Making: Medium Orchid Dye:4500:2025-10-6--19-10-01
+Title: 'Won't Underestimate You Next Time':5000:2025-10-6--19-10-01
+Off-Hand Augment:2500:2025-10-6--19-10-01
+Rhodium:23000:2025-10-6--19-10-01
+Tungsten:1500:2025-10-6--19-10-01
+Stibnite:1250:2025-10-6--19-10-01
+Extraordinary Metal Slab:4900:2025-10-6--19-10-01
+Marvelous Metal Slab:2400:2025-10-6--19-10-01
+Superb Metal Slab:700:2025-10-6--19-10-01
+Astounding Metal Slab:700:2025-10-6--19-10-01
+Amazing Metal Slab:450:2025-10-6--19-10-01
+Masterwork Metal Slab:440:2025-10-6--19-10-01
+Expert-Quality Metal Slab:350:2025-10-6--19-10-01
+Good Metal Slab:300:2025-10-6--19-10-01
+Basic Metal Slab:235:2025-10-6--19-10-01
+Simple Metal Slab:150:2025-10-6--19-10-01
+Title: 'Longs For The Sea':5000:2025-10-6--19-10-01
+Accuracy Circuit:9999:2025-10-6--19-10-01
+Superb Throwing Knife:100:2025-10-6--19-10-01
+Orcish Steel:3000:2025-10-6--19-10-01
+Tundra Lichen:300:2025-10-6--19-10-01
+Peas:750:2025-10-6--19-10-01
+Icy Frog Skin:1200:2025-10-6--19-10-01
+Sardonyx:145:2025-10-6--19-10-01
+Huge Gold Gryphon Statue:10000:2025-10-6--19-10-01
+Amazing Dense Arrow:15:2025-10-6--19-10-01
+Astonishing Arrow:20:2025-10-6--19-10-01
+Astonishing Dense Arrow:20:2025-10-6--19-10-01
+Astonishing Reservoir Arrow:20:2025-10-6--19-10-01
+Astonishing Snare Arrow:20:2025-10-6--19-10-01
+"The Gods, Vol. XI: Arisetsu":200000:2025-10-6--19-10-01
+Faded Blue Book:10000:2025-10-6--19-10-01
+Explosive Runestone:11000:2025-10-6--19-10-01
+Decent Animal Skin:159:2025-10-6--19-10-01
+Nice Animal Skin:60:2025-10-6--19-10-01
+Quality Animal Skin:299:2025-10-6--19-10-01
+Eternal Greens:10000:2025-10-6--19-10-01
+Rubywall Crystal:135:2025-10-6--19-10-01
+Garnet:150:2025-10-6--19-10-01
+Weapons-Grade Sandpaper:8000:2025-10-6--19-10-01
+Large Prism:700:2025-10-6--19-10-01
+Grand Prism:1800:2025-10-6--19-10-01
+Pixie Dust:30000:2025-10-6--19-10-01
+Main-Hand Augment:10:2025-10-6--19-10-01
+Ectoplasm:200:2025-10-6--19-10-01
+Basic Blood Serum:5000:2025-10-6--19-10-01
+Orcish Wheat Grinder:500:2025-10-6--19-10-01
+Title: 'Ambassador of Ri-Shin':5000:2025-10-6--19-10-01
+Iridium:600:2025-10-6--19-10-01
+Fairy Magic: Fairy Fire 10:4500:2025-10-6--19-10-01
+First Aid: Resuscitate 3:4500:2025-10-6--19-10-01
+Sword: Thrusting Blade 6:4500:2025-10-6--19-10-01
+Necromancy: Deathgaze 8:4500:2025-10-6--19-10-01
+Priest: Tether Soul 3:4000:2025-10-6--19-10-01
+Archery: Poison Arrow 9:4500:2025-10-6--19-10-01
+Bard: Blast of Fury 10:4000:2025-10-6--19-10-01
+Emerald:600:2025-10-6--19-10-01
+Glaring Amulet:13000:2025-10-6--19-10-01
+Dwarven T Crystal:13000:2025-10-6--19-10-01
+Stilton Cheese:3000:2025-10-6--19-10-01
+Jellybeans:15000:2025-10-6--19-10-01
+Spicy Chicken:2000:2025-10-6--19-10-01
+Basic Pumpkin Pie:3500:2025-10-6--19-10-01
+Pumpkin Salad:3500:2025-10-6--19-10-01
+Duke's Cake:340:2025-10-6--19-10-01
+Vegetable Masterpiece:1500:2025-10-6--19-10-01
+Cranberries:1200:2025-10-6--19-10-01
+Tofu Pumpkin Kebab:3500:2025-10-6--19-10-01
+Toasted Spriggan Nuts:3500:2025-10-6--19-10-01
+Onion Chicken:2500:2025-10-6--19-10-01
+Basic Pepperpot:1500:2025-10-6--19-10-01
+Bowyery: Enhancing Bows for Accuracy:5000:2025-10-6--19-10-01
+Shoddy Animal Skin:600:2025-10-6--19-10-01
+Saddlery: Amazing Mystic Saddlebag:3000:2025-10-6--19-10-01
+Necklace Augment:1500:2025-10-6--19-10-01
+Zombified Hand:500:2025-10-6--19-10-01
+Metal Claw:2000:2025-10-6--19-10-01
+Astounding Armor Patch Kit:1200:2025-10-6--19-10-01
+Royal Jelly:9001:2025-10-6--19-10-01
+Small Prism:99:2025-10-6--19-10-01
+Medium Prism:549:2025-10-6--19-10-01
+Forensic Analysis Kit:700:2025-10-6--19-10-01
+Amazing Skinning Knife:1000:2025-10-6--19-10-01
+Astounding Skinning Knife:2500:2025-10-6--19-10-01
+Danablu Cheese:4000:2025-10-6--19-10-01
+Esgarion Cheese:2500:2025-10-6--19-10-01
+Cambozola Cheese:2500:2025-10-6--19-10-01
+Mur Del Cheese:1000:2025-10-6--19-10-01
+Gouda Cheese:2500:2025-10-6--19-10-01
+Limburger Cheese:4000:2025-10-6--19-10-01
+Gobbledygook:6000:2025-10-6--19-10-01
+Creamy Squash Casserole:8000:2025-10-6--19-10-01
+Pumpkin Tomato Soup:14000:2025-10-6--19-10-01
+Tofurkey Gravy:12000:2025-10-6--19-10-01
+Shroom Feast:4000:2025-10-6--19-10-01
+Swamp Gourd Fries:8000:2025-10-6--19-10-01
+Crelpin's Fried Dish:12000:2025-10-6--19-10-01
+Swamp Salad:6000:2025-10-6--19-10-01
+Eel Stir-Fry:6000:2025-10-6--19-10-01
+Crelpin's Tart:15000:2025-10-6--19-10-01
+Pumpkin Spice Coffee:16000:2025-10-6--19-10-01
+Crisp Mint Vanilla Cinnamon Coffee:15000:2025-10-6--19-10-01
+Springs:1950:2025-10-6--19-10-01
+Spool of Wire:800:2025-10-6--19-10-01
+Ultra Lac:550:2025-10-6--19-10-01
+Hope Oil:7500:2025-10-6--19-10-01
+Crossing Oil:1000:2025-10-6--19-10-01
+Uncrossing Oil:1500:2025-10-6--19-10-01
+Fear Oil:1500:2025-10-6--19-10-01
+Brass Gear:400:2025-10-6--19-10-01
+Tin Gear:400:2025-10-6--19-10-01
+Beet:110:2025-10-6--19-10-01
+Broccoli:225:2025-10-6--19-10-01
+Squash:120:2025-10-6--19-10-01
+Nightmare Flesh:699:2025-10-6--19-10-01
+Magnifying Glass:800:2025-10-6--19-10-01
+Saddlery: Awesome Saddle:8000:2025-10-6--19-10-01
+Psychology: Mock 4:8000:2025-10-6--19-10-01
+Druid: Heart Thorn 10:8000:2025-10-6--19-10-01
+Bat: Tear 9:8000:2025-10-6--19-10-01
+Weather Witch: Summon Doomstorm 2:3000:2025-10-6--19-10-01
+Priest: Flamestrike 3:3000:2025-10-6--19-10-01
+Weather Witching: Litany of Stillness:2500:2025-10-6--19-10-01
+Toolcrafting: Awesome Cow Barding:4000:2025-10-6--19-10-01
+Toolcrafting: Awesome Spring Fairy Shoes:4000:2025-10-6--19-10-01
+Elf Phrenology Research 3:3000:2025-10-6--19-10-01
+Human Phrenology Research 3:3000:2025-10-6--19-10-01
+Fae Phrenology Research 3:5000:2025-10-6--19-10-01
+Astounding Animal Skin:600:2025-10-6--19-10-01
+Boletus Mushroom:50:2025-10-6--19-10-01
+Mycena Mushroom:750:2025-10-6--19-10-01
+Milk Cap Mushroom:600:2025-10-6--19-10-01
+Blood Mushroom:300:2025-10-6--19-10-01
+Gold Ore:800:2025-10-6--19-10-01
+Pyrite:90:2025-10-6--19-10-01
+Shamanic Infusion: Beginner's Scray Headgear Infusion:25000:2025-10-6--19-10-01
+Paladium:1000:2025-10-6--19-10-01
+Cinnabar:300:2025-10-6--19-10-01
+Prism (Legacy):999999999:2025-10-6--19-10-01
+Title: 'A Cleverly Disguised Lemon':77777:2025-10-6--19-10-01
+Bowyery: Enhancing the Criticality of Bows:2500:2025-10-6--19-10-01
+Drummond's Special Jerky:2000:2025-10-6--19-10-01
+Iocaine Mushroom:125:2025-10-6--19-10-01
+Sunflower:1000:2025-10-6--19-10-01
+Basic Fish Scales:100:2025-10-6--19-10-01
+Pure Pineal Juice:500:2025-10-6--19-10-01
+Fruitbreath Vial:350:2025-10-6--19-10-01
+Fae Mollusc Slime:2500:2025-10-6--19-10-01
+Tattered Red Book:5000:2025-10-6--19-10-01
+Deep Pink Dye:500:2025-10-6--19-10-01
+Dark Orange Dye:500:2025-10-6--19-10-01
+Ring Augment:3000:2025-10-6--19-10-01
+Dye Making: Burly Wood Dye:10000:2025-10-6--19-10-01
+Pig Juice:150:2025-10-6--19-10-01
+Lace:5000:2025-10-6--19-10-01
+Orcish Bock Yeast:375:2025-10-6--19-10-01
+Goblin Ale Yeast:290:2025-10-6--19-10-01
+Marzen Yeast:195:2025-10-6--19-10-01
+Pale Ale Yeast:130:2025-10-6--19-10-01
+Basic Lager Yeast:70:2025-10-6--19-10-01
+Barrel:1600:2025-10-6--19-10-01
+Kilderkin:850:2025-10-6--19-10-01
+Firkin:450:2025-10-6--19-10-01
+Kraken Tendril:1750:2025-10-6--19-10-01
+Fisherman's Arrangement #3:2800:2025-10-6--19-10-01
+Stuffed Bell Pepper:4500:2025-10-6--19-10-01
+Wall Torch:1500:2025-10-6--19-10-01
+Dye Making: Military Blue Dye:40000:2025-10-6--19-10-01
+Cooking: Ratkin Surf 'n Turf:5000:2025-10-6--19-10-01
+Royal Purple Dye:250000:2025-10-6--19-10-01
+Pitch Black Dye:250000:2025-10-6--19-10-01
+Cooking: Ur-Bacon:20000:2025-10-6--19-10-01
+Mercury:2500:2025-10-6--19-10-01
+Moistening Cream:300:2025-10-6--19-10-01
+Potion of Random Resistance:200:2025-10-6--19-10-01
+Applejack:4000:2025-10-6--19-10-01
+Hops:333:2025-10-6--19-10-01
+Enhanced Pineal Juice:1500:2025-10-6--19-10-01
+Title: 'Fate Weaver':25000:2025-10-6--19-10-01
+Imatia's Sight Potion:1500:2025-10-6--19-10-01
+Mycologist's Display #2:1000:2025-10-6--19-10-01
+Mycologist's Display #1:500:2025-10-6--19-10-01
+Bat: Confusing Double 7:5000:2025-10-6--19-10-01
+Great Venison:250:2025-10-6--19-10-01
+Orcish Book About Tast:2000:2025-10-6--19-10-01
+Orcish Book About Thaumaturgy:2000:2025-10-6--19-10-01
+Recall Stone:1100:2025-10-6--19-10-01
+Shoe Augment:500:2025-10-6--19-10-01
+Potion of Rat Detection:2000:2025-10-6--19-10-01
+Fisherman's Arrangement #2:500:2025-10-6--19-10-01
+Recipe: Magic Teapot:1000:2025-10-6--19-10-01
+Baked Flounder:500:2025-10-6--19-10-01
+Cooking: Spicy Cavefish:1500:2025-10-6--19-10-01
+Weak Acidic Cleanser:150:2025-10-6--19-10-01
+Potent Acidic Cleanser:750:2025-10-6--19-10-01
+Trollbane Oil:100:2025-10-6--19-10-01
+Decent Phlogiston:50:2025-10-6--19-10-01
+Title: 'No Regerts':50000:2025-10-6--19-10-01
+Armorsmithing: Awesome Dwarven Plate Gloves:3000:2025-10-6--19-10-01
+Carpentry: Awesome Combat Staff:3000:2025-10-6--19-10-01
+Carpentry: Awesome Chair:3000:2025-10-6--19-10-01
+Tailoring: Astounding Nimble Cowl:3000:2025-10-6--19-10-01
+Tailoring: Astounding Nimble Gloves:3000:2025-10-6--19-10-01
+Sigil Scripting: Restorative Sigil 5:3100:2025-10-6--19-10-01
+Tailoring: Great Shocking Masquerade Mask:2000:2025-10-6--19-10-01
+Armorsmithing: Awesome Werewolf Hindguard:3000:2025-10-6--19-10-01
+Survival Instincts: Toughen Up 10:4000:2025-10-6--19-10-01
+Tailoring: Awesome Linen Shirt:3000:2025-10-6--19-10-01
+Tailoring: Awesome Linen Pants:3000:2025-10-6--19-10-01
+Shield: Rapid Recovery 9:4000:2025-10-6--19-10-01
+Toolcrafting: Awesome Arachnid Harness:3000:2025-10-6--19-10-01
+Tentakiller Tentacle:2600:2025-10-6--19-10-01
+Glamour Berry:25000:2025-10-6--19-10-01
+Phase Duractor:9000:2025-10-6--19-10-01
+Strange Dirt:200:2025-10-6--19-10-01
+Mint:2899:2025-10-6--19-10-01
+Fae Bee Stinger:4500:2025-10-6--19-10-01
+Heartshroom:444:2025-10-6--19-10-01
+Tentakiller Gland:250:2025-10-6--19-10-01
+Tuft of Fur:1700:2025-10-6--19-10-01
+Demonic Giant Snail Shell:3000:2025-10-6--19-10-01
+Baltacar:5000:2025-10-6--19-10-01
+Superjump Potion:3500:2025-10-6--19-10-01
+Ultimate Acidic Cleanser:800:2025-10-6--19-10-01
+Rivets:50:2025-10-6--19-10-01
+Dwarven Weight:900:2025-10-6--19-10-01
+Bard: Blast of Despair 8:25000:2025-10-6--19-10-01
+Unarmed: Claw Barrage 4:25000:2025-10-6--19-10-01
+Gadgeteering: Cryogenic Pet Crate:10000:2025-10-6--19-10-01
+Acur Blood:20000:2025-10-6--19-10-01
+Bunny Juice (Brown Fur):15000:2025-10-6--19-10-01
+Bunny Juice (White Fur):100000:2025-10-6--19-10-01
+Guano:150:2025-10-6--19-10-01
+Un-Bunny Juice:15000:2025-10-6--19-10-01
+Vertan Murex Shell:19000:2025-10-6--19-10-01
+Pear:400:2025-10-6--19-10-01
+Peach:600:2025-10-6--19-10-01
+Cranberry-Barbecue Steak:1500:2025-10-6--19-10-01
+Enchanted Holly Seeds:2000:2025-10-6--19-10-01
+Desert Rose Seeds:180:2025-10-6--19-10-01
+Raw Turkey:250:2025-10-6--19-10-01
+Unarmed: Jab 5:3500:2025-10-6--19-10-01
+Unarmed: Knee Kick 4:2500:2025-10-6--19-10-01
+Unarmed: Headbutt 4:3000:2025-10-6--19-10-01
+Weather Witch: Summon Doomstorm 4:3000:2025-10-6--19-10-01
+Unarmed: Knee Kick 2:3500:2025-10-6--19-10-01
+Werewolf: Pouncing Rend 3+:800:2025-10-6--19-10-01
+Work Order for Haerel Cheese (Cheesemaking):2500:2025-10-6--19-10-01
+Work Order for Trophy Droach Skins (Skinning):10000:2025-10-6--19-10-01
+Unarmed: Jab 4:3000:2025-10-6--19-10-01
+Un-Pig Juice:2500:2025-10-6--19-10-01
+Beak:450:2025-10-6--19-10-01
+Rat Tail:300:2025-10-6--19-10-01
+Work Order for Myconian Jellies:150:2025-10-6--19-10-01
+Unarmed: Headbutt 3:2600:2025-10-6--19-10-01
+Unarmed: Jab 3:2600:2025-10-6--19-10-01
+Unarmed: Bodyslam:4000:2025-10-6--19-10-01
+Silver Salad Fork:750:2025-10-6--19-10-01
+Sword: Riposte 4:5000:2025-10-6--19-10-01
+Ancient Bronze Coin:450:2025-10-6--19-10-01
+Cooking: Povus Ragant:792:2025-10-6--19-10-01
+Saddlery: Astounding Mystic Saddlebag:1900:2025-10-6--19-10-01
+Spicy Fried Tofu Cubes:1450:2025-10-6--19-10-01
+Crelpin's Side Salad:2300:2025-10-6--19-10-01
+Crude Phlogiston:55:2025-10-6--19-10-01
+Baked Swamp Gourd:10000:2025-10-6--19-10-01
+Roquefort Cheese:2000:2025-10-6--19-10-01
+Rough Phlogiston:36:2025-10-6--19-10-01
+Yellow Perch Ranalon-Style:2200:2025-10-6--19-10-01
+Tregetable Steak:2430:2025-10-6--19-10-01
+Yellowwhisker:2200:2025-10-6--19-10-01
+Groovalu:2300:2025-10-6--19-10-01
+Gorgonzola Cheese:2670:2025-10-6--19-10-01
+Field Mushroom:150:2025-10-6--19-10-01
+Silver Ore:200:2025-10-6--19-10-01
+Molybdenum:275:2025-10-6--19-10-01
+Orichalcum:1400:2025-10-6--19-10-01
+Abrasive Sand:4000:2025-10-6--19-10-01
+Xogrite Chunk:1100:2025-10-6--19-10-01
+Stuffed Squash:2500:2025-10-6--19-10-01
+BBQ Ribs:2500:2025-10-6--19-10-01
+Clownfish Sushi Roll:2500:2025-10-6--19-10-01
+Winter Salad:2500:2025-10-6--19-10-01
+Broccoli Florets:2500:2025-10-6--19-10-01
+Beets 'n Meats:2500:2025-10-6--19-10-01
+Mandibles' Perfect Lunch:2500:2025-10-6--19-10-01
+Super Fishy Surprise:2000:2025-10-6--19-10-01
+Buttered Baked Potato:2500:2025-10-6--19-10-01
+Grapefish Steak:2500:2025-10-6--19-10-01
+Fried Lamb Chops:2500:2025-10-6--19-10-01
+Cream of Mushroom Soup:2500:2025-10-6--19-10-01
+Yeti Stick:2500:2025-10-6--19-10-01
+Mild Cheddar Cheese:900:2025-10-6--19-10-01
+Sharp Cheddar Cheese:1200:2025-10-6--19-10-01
+Parmesan Cheese:900:2025-10-6--19-10-01
+Mozzarella Cheese:4000:2025-10-6--19-10-01
+Telemea Cheese:4000:2025-10-6--19-10-01
+Blue-Whisker Cheese:1299:2025-10-6--19-10-01
+Rustic Meatsterpiece:3499:2025-10-6--19-10-01
+Jewelry Crafting: Position Inferencing Ring:75000:2025-10-6--19-10-01
+Quality Phlogiston:250:2025-10-6--19-10-01
+Work Order for Green Vexfish Fillets (Fishing):10000:2025-10-6--19-10-01
+Tailoring: Amazing Frigid Masquerade Mask:2999:2025-10-6--19-10-01
+Tailoring: Awesome Cargo Pants:25000:2025-10-6--19-10-01
+Tailoring: Astounding Linen Gloves:5000:2025-10-6--19-10-01
+Bladesmithing: Improve Prophesied or Foretold Sword via Crafting:20000:2025-10-6--19-10-01
+Alchemy: Tempest in a Teapot:12000:2025-10-6--19-10-01
+Bladesmithing: Sharpening Claws for Accuracy:15000:2025-10-6--19-10-01
+Pig: Grunt of Abeyance 9:3000:2025-10-6--19-10-01
+Cow: Collect Milk 4:4000:2025-10-6--19-10-01
+Maple Wood:200:2025-10-6--19-10-01
+Spruce Wood:600:2025-10-6--19-10-01
+Orcish Spell Pouch:300:2025-10-6--19-10-01
+Cheesemaking: Blue-Whisker Cheese:40744:2025-10-6--19-10-01
+Nice Phlogiston:88:2025-10-6--19-10-01
+Basic Stoneskin Potion:600:2025-10-6--19-10-01
+Warden Strength Drink:15000:2025-10-6--19-10-01
+Sirine Cheese:2361:2025-10-6--19-10-01
+"The Harpy Lands" by Rosedriah:30000:2025-10-6--19-10-01
+Monterey Jack Cheese:2222:2025-10-6--19-10-01
+Vexfish Lettuce Wraps:3368:2025-10-6--19-10-01
+Great Animal Skin:200:2025-10-6--19-10-01
+Fairy Dust:400:2025-10-6--19-10-01
+Helm Augment:1000:2025-10-6--19-10-01
+Parasol Mushroom Flakes:400:2025-10-6--19-10-01
+Parasol Mushroom:30:2025-10-6--19-10-01
+Magical Candy Cane:30100:2025-10-6--19-10-01
+Thick Armor Potion:10000:2025-10-6--19-10-01
+Phoenix Egg:22000:2025-10-6--19-10-01
+Astonishing Elf Skull:250:2025-10-6--19-10-01
+Boar Tusk:100:2025-10-6--19-10-01
+Pork Shoulder:50:2025-10-6--19-10-01
+Psychology: Mock 2:800:2025-10-6--19-10-01
+Bladesmithing: Fighting Claws:2500:2025-10-6--19-10-01
+Cheesemaking: Mur Del Cheese:672:2025-10-6--19-10-01
+Decoction of Foraging Knowledge:2500:2025-10-6--19-10-01
+Licking Moss:3000:2025-10-6--19-10-01
+Toxic Frog Skin:2000:2025-10-6--19-10-01
+Fairy Iceheart:17500:2025-10-6--19-10-01
+Mind Enhancement Gem:400:2025-10-6--19-10-01
+Dwarven N Core:2500:2025-10-6--19-10-01
+Shock Dust:100:2025-10-6--19-10-01
+Title: 'Keeper of Forbidden Knowledge':500000:2025-10-6--19-10-01
+Maple-Smoked Shark:500:2025-10-6--19-10-01
+Tailoring: Astounding Shocking Masquerade Mask:30000:2025-10-6--19-10-01
+Tailoring: Astounding Forest Masquerade Mask:30000:2025-10-6--19-10-01
+Tailoring: Awesome Bat Witch Hat:20000:2025-10-6--19-10-01
+Tailoring: Astounding Bat Witch Hat:19999:2025-10-6--19-10-01
+Armorsmithing: Awesome Orcish Plate Boots:20000:2025-10-6--19-10-01
+Orran's Inventory Expander Potion:15000:2025-10-6--19-10-01
+Decoction of Demon Anatomy Knowledge:10000:2025-10-6--19-10-01
+Saddlery: Awesome Mystic Saddlebag:15000:2025-10-6--19-10-01
+Sword: Precision Pierce 2:3000:2025-10-6--19-10-01
+Priest: Flamestrike 8:5500:2025-10-6--19-10-01
+Sword: Decapitate:5000:2025-10-6--19-10-01
+Sword: Decapitate 3:5000:2025-10-6--19-10-01
+Psychology: Tell Me About Your Mother 4:4000:2025-10-6--19-10-01
+Alchemy: Inks for Special Occasions Pt 2:5000:2025-10-6--19-10-01
+Flower Arrangement: Cottonworker's Display #C:2000:2025-10-6--19-10-01
+Carpentry: Crude Priest Staff:4000:2025-10-6--19-10-01
+Tailoring: Astounding Linen Pants:5000:2025-10-6--19-10-01
+Bladesmithing: Military Swords:5000:2025-10-6--19-10-01
+Cooking: Desert Tea:2000:2025-10-6--19-10-01
+Cooking: Chuma's Agave Secret:5000:2025-10-6--19-10-01
+Potion of Fae Sight:5000:2025-10-6--19-10-01
+Swamp Gourd:390:2025-10-6--19-10-01
+Venison Jerky:95:2025-10-6--19-10-01
+Work Order for Pinfish Fillets (Fishing):30:2025-10-6--19-10-01
+Sword Lord Potion:1300:2025-10-6--19-10-01
+Teleportation: Summon Alternate Portal:1900:2025-10-6--19-10-01
+Minor Panacea:60000:2025-10-6--19-10-01
+Astonishing Long Arrow:20:2025-10-6--19-10-01
+Amazing Long Arrow:20:2025-10-6--19-10-01
+Title: 'Turducken':10000:2025-10-6--19-10-01
+Title: 'Loot Monger':10000:2025-10-6--19-10-01
+Shoddy Phlogiston:20:2025-10-6--19-10-01
+Archery: Bow Bash 8:7000:2025-10-6--19-10-01
+Carpentry: Awesome Melee Staff:4000:2025-10-6--19-10-01
+Saddlery: Quality Mystic Saddlebag:2000:2025-10-6--19-10-01
+Tailoring: Quality Hats for Deer:2000:2025-10-6--19-10-01
+Archery: Acid Arrow 10:7500:2025-10-6--19-10-01
+Warden: Apprehend 7:6800:2025-10-6--19-10-01
+Bard: Song of Resurgence 10:6500:2025-10-6--19-10-01
+Armorsmithing: Awesome Werewolf Barding:4000:2025-10-6--19-10-01
+Archery: Fire Arrow 10:7500:2025-10-6--19-10-01
+Staff: Redirect 5:7500:2025-10-6--19-10-01
+Staff: Deflective Spin 5:7500:2025-10-6--19-10-01
+Armorsmithing: Awesome Chainmail Gloves:4000:2025-10-6--19-10-01
+Werewolf: Bite 8:7000:2025-10-6--19-10-01
+Deer: Antler Slash 10:7000:2025-10-6--19-10-01
+Unarmed: Cobra Strike 7:7000:2025-10-6--19-10-01
+Staff: Phoenix Strike 7:7000:2025-10-6--19-10-01
+Fairy Magic: Pixie Flare 10:7000:2025-10-6--19-10-01
+Blacksmithing: Awesome Deer Shoes:4000:2025-10-6--19-10-01
+Rabbit: Thump 10:5000:2025-10-6--19-10-01
+Necromancy: Provoke Undead 9:6800:2025-10-6--19-10-01
+Knife: Slicing Ice 10:7000:2025-10-6--19-10-01
+Spirit Stone:2000:2025-10-6--19-10-01
+Sword: Sword Slash 8:6000:2025-10-6--19-10-01
+Sword: Riposte 6:4800:2025-10-6--19-10-01
+Amazing Venison Jerky:1500:2025-10-6--19-10-01
+Sugar Stick:12000:2025-10-6--19-10-01
+Summer Sucker:12000:2025-10-6--19-10-01
+Summer Apple Pie:8000:2025-10-6--19-10-01
+Gardening: Pumpkin Bomb 2:13000:2025-10-6--19-10-01
+Sword: Decapitate 7:20000:2025-10-6--19-10-01
+Tonguefish:500:2025-10-6--19-10-01
+Demonic Amber:1000:2025-10-6--19-10-01
+Demon's Tooth:1000:2025-10-6--19-10-01
+Cerberus Tear:1000:2025-10-6--19-10-01
+Timestopped Magma:1000:2025-10-6--19-10-01
+Hell Gravel:1000:2025-10-6--19-10-01
+Thommarite:1000:2025-10-6--19-10-01
+Awesome Animal Skin:470:2025-10-6--19-10-01
+The Traits of a Mount:17500:2025-10-6--19-10-01
+Horse Breeds: A Primer:17500:2025-10-6--19-10-01
+Tailoring: Nice Forest Masquerade Mask:19999:2025-10-6--19-10-01
+Tailoring: Quality Forest Masquerade Mask:30000:2025-10-6--19-10-01
+Tailoring: Great Fiery Masquerade Mask:30000:2025-10-6--19-10-01
+Tailoring: Great Bat Witch Hat:30000:2025-10-6--19-10-01
+Recipe: Purple Confetti Bomb:60000:2025-10-6--19-10-01
+Cooking: Salmon with Roasted Tomatoes:15000:2025-10-6--19-10-01
+Dye Making: Sienna Dye:100000:2025-10-6--19-10-01
+Letter of Authority:250:2025-10-6--19-10-01
+Memory Note:40000:2025-10-6--19-10-01
+Lavender:17000:2025-10-6--19-10-01
+Crafter's Guild Token:9000:2025-10-6--19-10-01
+Beetle:12000:2025-10-6--19-10-01
+Antipathy Pearl:7500:2025-10-6--19-10-01
+Black Pearl:17000:2025-10-6--19-10-01
+Trophy Droach Skin:8000:2025-10-6--19-10-01
+Portable Trash Can:400000:2025-10-6--19-10-01
+Sugar Catepillar:350000:2025-10-6--19-10-01
+Dead Vole:15000:2025-10-6--19-10-01
+Tailoring: Great Linen Pants:22000:2025-10-6--19-10-01
+Spore-Infested Dirt:3000:2025-10-6--19-10-01
+Cooking: Orcish Ragant:20000:2025-10-6--19-10-01
+Cooking: Hot Corn and Tomato Salad:20000:2025-10-6--19-10-01
+Cooking: Honey-Pumpkin Muffin:25000:2025-10-6--19-10-01
+Cooking: Basic Beetle Skewer:30000:2025-10-6--19-10-01
+Rakshasa Poetry:9000:2025-10-6--19-10-01
+Giant Hairball:1200:2025-10-6--19-10-01
+Blacksmithing: Combining Gold Nuggets:20000:2025-10-6--19-10-01
+Alchemy: Inks for Special Occasions Pt 3:18000:2025-10-6--19-10-01
+Druid: Cosmic Strike 9:18000:2025-10-6--19-10-01
+Elven Lily Seeds:400:2025-10-6--19-10-01
+Articulated Cutting Arm:20000:2025-10-6--19-10-01
+Silver Spear Head:900:2025-10-6--19-10-01
+Memory Enhancer:1500:2025-10-6--19-10-01
+Tailoring: Awesome Cargo Shirt:20000:2025-10-6--19-10-01
+Orcish Precision Display #3:2400:2025-10-6--19-10-01
+Cooking: Human-Style Pizza with Tofu:9000:2025-10-6--19-10-01
+Cooking: Beef Spaghetti:9000:2025-10-6--19-10-01
+Green Glass Bracelet:200:2025-10-6--19-10-01
+Violet Glass Bracelet:300:2025-10-6--19-10-01
+Archery: Multishot 8:6000:2025-10-6--19-10-01
+Necromancy: Wave of Darkness 8:4860:2025-10-6--19-10-01
+Bladesmithing: Awesome Alchemist's Claw:8250:2025-10-6--19-10-01
+Cranberry-Glazed "Meatballs":1260:2025-10-6--19-10-01
+Bladesmithing: Sharpening Swords for Accuracy:6000:2025-10-6--19-10-01
+Crossbow: Acid Bolt 9:7500:2025-10-6--19-10-01
+Sword: Hacking Blade 6:7000:2025-10-6--19-10-01
+Priest: Flamestrike 7:2900:2025-10-6--19-10-01
+Amazing Calligraphy Bench:1428:2025-10-6--19-10-01
+Toolcrafting: Astounding Snail Helm:4500:2025-10-6--19-10-01
+Decoction of Beast Speech Knowledge:999:2025-10-6--19-10-01
+On Becoming Great Again:1000:2025-10-6--19-10-01
+Stomach:2000:2025-10-6--19-10-01
+Expert Caustic Ink:225:2025-10-6--19-10-01
+Expert Holistic Ink:225:2025-10-6--19-10-01
+Fire Resistance Potion:500:2025-10-6--19-10-01
+Weather Witching: Trial of Lannasea:12400:2025-10-6--19-10-01
+Necromancy: Rebuild Undead 9:4000:2025-10-6--19-10-01
+Knife: Surge Cut 9:9000:2025-10-6--19-10-01
+Archery: Snare Arrow 9:3740:2025-10-6--19-10-01
+Hammer: Look At My Hammer 9:9000:2025-10-6--19-10-01
+Shield: Fight Me You Fools 9:9000:2025-10-6--19-10-01
+Hammer: Reverberating Strike 9:9000:2025-10-6--19-10-01
+Vampirism: Necrotic Grasp 9:9000:2025-10-6--19-10-01
+Knife: Hamstring Throw 9:9000:2025-10-6--19-10-01
+Giant Phrenology Research 3:9000:2025-10-6--19-10-01
+Armor Patching: Patch Armor 10:9000:2025-10-6--19-10-01
+Bat: Rip 10:9000:2025-10-6--19-10-01
+Werewolf: Pouncing Rake 6:8000:2025-10-6--19-10-01
+Tailoring: Quality Hats for Cows:4000:2025-10-6--19-10-01
+Priest: Flamestrike 4:12500:2025-10-6--19-10-01
+Gruzark's Chapbook:7500:2025-10-6--19-10-01
+Pig Snout:150:2025-10-6--19-10-01
+Spleen:200:2025-10-6--19-10-01
+Heart:200:2025-10-6--19-10-01
+Striking Bell:500:2025-10-6--19-10-01
+River Sand:600:2025-10-6--19-10-01
+Honey:2000:2025-10-6--19-10-01
+Lac:200:2025-10-6--19-10-01
+Magic Tooth:1500:2025-10-6--19-10-01
+Myconian Jelly:399:2025-10-6--19-10-01
+Ratkin Necromancer's Talisman:5000:2025-10-6--19-10-01
+Brass Screws:750:2025-10-6--19-10-01
+Hatred Oil:4500:2025-10-6--19-10-01
+Blacksmithing: Reliable Flasks:7500:2025-10-6--19-10-01
+Leg Augment:3900:2025-10-6--19-10-01
+Glove Augment:5000:2025-10-6--19-10-01
+Chest Augment:3000:2025-10-6--19-10-01
+Carpentry: Shoddy Priest Staff:50000:2025-10-6--19-10-01
+Gypsum:1000:2025-10-6--19-10-01
+Sand Dollar:100:2025-10-6--19-10-01
+Carpentry: Astounding Storage Crate:5000:2025-10-6--19-10-01
+Decoction of Weapon Augmentation Knowledge:4000:2025-10-6--19-10-01
+Deer Juice:9500:2025-10-6--19-10-01
+Flax:450:2025-10-6--19-10-01
+Amulite:10000:2025-10-6--19-10-01
+Semi-Real Hassium:8000:2025-10-6--19-10-01
+Corks:700:2025-10-6--19-10-01
+Carrot:350:2025-10-6--19-10-01
+Green Pepper:400:2025-10-6--19-10-01
+Gold Nugget:200:2025-10-6--19-10-01
+Giant Frog Food:2500:2025-10-6--19-10-01
+Copper Ore:150:2025-10-6--19-10-01
+Title: 'Child of Chaos':10000:2025-10-6--19-10-01
+Title: 'Echo of Hope':60000:2025-10-6--19-10-01
+Apology Cake:14300000:2025-10-6--19-10-01
+Candy Pebbles:80000:2025-10-6--19-10-01
+Lemon Meringue Pie:20000:2025-10-6--19-10-01
+Candy Drop:20000:2025-10-6--19-10-01
+Dye Making: Maroon Dye:5000:2025-10-6--19-10-01
+Recipe: Confetti Barrel:100000:2025-10-6--19-10-01
+Title: 'Very Old and Very Strong':5000:2025-10-6--19-10-01
+Guardian Lure:1800:2025-10-6--19-10-01
+Cooking: Evu Nut Salad:15000:2025-10-6--19-10-01
+Recipe: Green Fireworks:100000:2025-10-6--19-10-01
+Confetti Barrel:20000:2025-10-6--19-10-01
+Dye Making: Dark Orange Dye:100000:2025-10-6--19-10-01
+Dye Making: Deep Pink Dye:100000:2025-10-6--19-10-01
+Flame Nib:14971:2025-10-6--19-10-01
+Shock Nib:15000:2025-10-6--19-10-01
+Maximized Emerald:6750:2025-10-6--19-10-01
+Scroll of Demonic Research:800000:2025-10-6--19-10-01
+Maple Wood Chips:325:2025-10-6--19-10-01
+Brain:150:2025-10-6--19-10-01
+Rabbit Treat:100:2025-10-6--19-10-01
+Grass:100:2025-10-6--19-10-01
+Pork Chops with Watercress:1800:2025-10-6--19-10-01
+Oak Wood Chips:250:2025-10-6--19-10-01
+Decoction of Skinning Knowledge:5000:2025-10-6--19-10-01
+Decoction of Elemental Anatomy Knowledge:5000:2025-10-6--19-10-01
+Decoction of Incorporeal Anatomy Knowledge:5000:2025-10-6--19-10-01
+Orange:300:2025-10-6--19-10-01
+Fae Felt:15000:2025-10-6--19-10-01
+Sun Statue Shard:400:2025-10-6--19-10-01
+Basic Fried Tofu Cubes:1000:2025-10-6--19-10-01
+Weapon Whetstone:1500:2025-10-6--19-10-01
+Flight Potion:500000:2025-10-6--19-10-01
+Cheesemaking: Slave's Cheese:800:2025-10-6--19-10-01
+Elegant Fletchings:750:2025-10-6--19-10-01
+Good Armor Patch Kit:40:2025-10-6--19-10-01
+Appenzeller Cheese:1775:2025-10-6--19-10-01
+Archery: Poison Arrow 10:65000:2025-10-6--19-10-01
+Hammer: Seismic Impact 9:55000:2025-10-6--19-10-01
+Spirit Fox: Galvanize 9:3460:2025-10-6--19-10-01
+Druid: Pulse of Life 7:95000:2025-10-6--19-10-01
+Necromancy: Spark of Death 9:60000:2025-10-6--19-10-01
+Deer: King of the Forest 6:60000:2025-10-6--19-10-01
+Deer: Cuteness Overload 6:7500:2025-10-6--19-10-01
+Bard: Song of Bravery 9:9000:2025-10-6--19-10-01
+Deer: Doe Eyes 7:10000:2025-10-6--19-10-01
+Spider: Terrifying Bite 8:65000:2025-10-6--19-10-01
+Archery: Heavy Shot 7:50000:2025-10-6--19-10-01
+Sword: Many Cuts 8:30000:2025-10-6--19-10-01
+Embalming Tool:15000:2025-10-6--19-10-01
+Ancient Stencil:2500:2025-10-6--19-10-01
+Decoction of Goblinese Knowledge:3500:2025-10-6--19-10-01
+Anchor Rune:1000:2025-10-6--19-10-01
+Triceratops Horn Bone:5000:2025-10-6--19-10-01
+Kuvou Poison Sack:5000:2025-10-6--19-10-01
+Kuvou Tongue:350:2025-10-6--19-10-01
+Unarmed: Mamba Strike 7:7500:2025-10-6--19-10-01
+Hammer: Latent Charge 7:7500:2025-10-6--19-10-01
+Werewolf: Pack Attack 6:7500:2025-10-6--19-10-01
+Priest: Mend Flesh 9:7500:2025-10-6--19-10-01
+Animal Handling: Shrill Command 8:7500:2025-10-6--19-10-01
+Xedrite:10000:2025-10-6--19-10-01
+Magic Sand:7500:2025-10-6--19-10-01
+Red Wing Token:1000:2025-10-6--19-10-01
+Cinnamon Pumpkin Rolls:1450:2025-10-6--19-10-01
+Sweet-Roasted Pumpkin:1450:2025-10-6--19-10-01
+Human-Style Pizza with Souls:19950:2025-10-6--19-10-01
+Infernal Soup:9900:2025-10-6--19-10-01
+Deviled Egg:9900:2025-10-6--19-10-01
+Crelpin's Corn Dish:1250:2025-10-6--19-10-01
+Shoddy Music Box:15000:2025-10-6--19-10-01
+Bladesmithing: Sharpening Daggers for Accuracy:20000:2025-10-6--19-10-01
+Title: 'Corvid':150000:2025-10-6--19-10-01
+Blacksmithing: Reinforce Metal Pants the Elven Way:20000:2025-10-6--19-10-01
+Blacksmithing: Improve Prophesied or Foretold Flask via Crafting:20000:2025-10-6--19-10-01
+Toolcrafting: Jeweler's Maintenance Kit (Dwarven Method):20000:2025-10-6--19-10-01
+Blacksmithing: Improve Prophesied or Foretold Horn via Crafting:20000:2025-10-6--19-10-01
+Blacksmithing: Infuse Combat Wisdom into Foretold Orb:20000:2025-10-6--19-10-01
+Bladesmithing: Sharpening Dirks for Critical Strikes:20000:2025-10-6--19-10-01
+Bladesmithing: Military Dirks:20000:2025-10-6--19-10-01
+Bladesmithing: Sharpening Dirks for Accuracy:20000:2025-10-6--19-10-01
+Bladesmithing: Alchemist's Claws:20000:2025-10-6--19-10-01
+Bladesmithing: Sharpening Daggers for Critical Strikes:20000:2025-10-6--19-10-01
+Bladesmithing: Sharpening Swords for Vulnerability Exploitation:20000:2025-10-6--19-10-01
+Bladesmithing: Infuse Combat Wisdom into Foretold Claw:20000:2025-10-6--19-10-01
+Blacksmithing: Improve Prophesied or Foretold Staff via Crafting:20000:2025-10-6--19-10-01
+Toolcrafting: Reweighting Kit (Dwarven Method):20000:2025-10-6--19-10-01
+Toolcrafting: Reweighting Kit (Elven Method):20000:2025-10-6--19-10-01
+Gur-Horta:900:2025-10-6--19-10-01
+Pure Cranium Powder:300:2025-10-6--19-10-01
+Tailoring: Add Nature Damage to Cloth Pants:1125:2025-10-6--19-10-01
+Blood Seeker Ointment:400:2025-10-6--19-10-01
+Ferocity Juice:250:2025-10-6--19-10-01
+Sanguinizer:200:2025-10-6--19-10-01
+Rabbit: Carrot Power 7:4000:2025-10-6--19-10-01
+Saddlery: Decent Mystic Saddlebag:1000:2025-10-6--19-10-01
+Flower Arrangement: Gardening Display #D:2000:2025-10-6--19-10-01
+Warden: Lethal Force 7:4000:2025-10-6--19-10-01
+Bat: Drink Blood 9:4000:2025-10-6--19-10-01
+Spider: Premeditated Doom 7:4000:2025-10-6--19-10-01
+Pig: Pig Punt 6:4000:2025-10-6--19-10-01
+Vampirism: Overwhelming Bite 9:4000:2025-10-6--19-10-01
+Battle Chemistry: Freezing Mist 10:4000:2025-10-6--19-10-01
+Priest: Unfetter 3:4000:2025-10-6--19-10-01
+Spider: Grappling Web 7:4000:2025-10-6--19-10-01
+Warden: Controlled Burn 6:4000:2025-10-6--19-10-01
+Mentalism: System Shock 7:4000:2025-10-6--19-10-01
+Battle Chemistry: Toxic Irritant 10:4000:2025-10-6--19-10-01
+Necromancy: Life Steal 8:4000:2025-10-6--19-10-01
+Tailoring: Awesome Spider Casings:3000:2025-10-6--19-10-01
+Rabbit: Hare Dash 9:4000:2025-10-6--19-10-01
+Leatherworking: Awesome Leather Shirt:3000:2025-10-6--19-10-01
+Mentalism: Psi Power Wave 7:4000:2025-10-6--19-10-01
+Bard: Moment of Resolve 9:4000:2025-10-6--19-10-01
+Battle Chemistry: Healing Mist 10:4000:2025-10-6--19-10-01
+Staff: Pinning Slash 5:4000:2025-10-6--19-10-01
+Cow: Clobbering Hoof 9:4000:2025-10-6--19-10-01
+First Aid: First Aid Bomb 8:3000:2025-10-6--19-10-01
+Vampirism: Lifedrain 9:4000:2025-10-6--19-10-01
+Knife: Gut 9:4000:2025-10-6--19-10-01
+Battle Chemistry: Freezing Mist 9:4000:2025-10-6--19-10-01
+Bat: Wing Vortex 10:4000:2025-10-6--19-10-01
+Archery: Heavy Shot 8:4000:2025-10-6--19-10-01
+Strong Antivenom:300:2025-10-6--19-10-01
+Grasgot Cheese:2500:2025-10-6--19-10-01
+Necromancy: Death's Hold 8:4500:2025-10-6--19-10-01
+Alchemy: The Hows and Whys of Acid:1999:2025-10-6--19-10-01
+Tailoring: Add Electricity Damage to Cloth Shirt:2000:2025-10-6--19-10-01
+Carbon-form Scrutinizer Array:4500:2025-10-6--19-10-01
+Priest: Flamestrike 6:4500:2025-10-6--19-10-01
+Mycology: Mushroom Turret 2:3000:2025-10-6--19-10-01
+Golem Clay:100:2025-10-6--19-10-01
+Red Apple:120:2025-10-6--19-10-01
+Mandrake Root:120:2025-10-6--19-10-01
+Large Strawberry:150:2025-10-6--19-10-01
+Deinonychus Claw:200:2025-10-6--19-10-01
+Guava:300:2025-10-6--19-10-01
+Treant Acorn:350:2025-10-6--19-10-01
+Simple Arisetsu Blanket:500:2025-10-6--19-10-01
+Pebbles:500:2025-10-6--19-10-01
+Cinnamon:600:2025-10-6--19-10-01
+Vanilla:800:2025-10-6--19-10-01
+Fine Cheesecloth:1000:2025-10-6--19-10-01
+Ultra Sharpen:1000:2025-10-6--19-10-01
+Neufchatel Cheese:800:2025-10-6--19-10-01
+Laressa's Cheese:700:2025-10-6--19-10-01
+Iceheart Sustenance Oil:1500:2025-10-6--19-10-01
+Pastoral Mare Blanket:1500:2025-10-6--19-10-01
+Spicy Porcini Bites:2500:2025-10-6--19-10-01
+Unarmed Textbook (Levels 21-30):2500:2025-10-6--19-10-01
+Broken Sword:3000:2025-10-6--19-10-01
+Alchemy: Mercury:3500:2025-10-6--19-10-01
+Weather Witch: Summon Doomstorm 3:4000:2025-10-6--19-10-01
+Robust Kennel:6000:2025-10-6--19-10-01
+Hexapus Mouth Ring:1500:2025-10-6--19-10-01
+Ivory Mandibles:10000:2025-10-6--19-10-01
+Iron Fishing Hook:11000:2025-10-6--19-10-01
+Hippogriff Feather:50000:2025-10-6--19-10-01
+Decoction of Gender Studies Knowledge:62000:2025-10-6--19-10-01
+Tailoring: Nice Bat Witch Hat:10000:2025-10-6--19-10-01
+Art: Owl Jack O' Lantern:10000:2025-10-6--19-10-01
+Whittling: Cedar Butterfly Harness:4900:2025-10-6--19-10-01
+Priest: Flamestrike 5:2700:2025-10-6--19-10-01
+Ice Core:600:2025-10-6--19-10-01
+Gruesome Spooky Punch:2000:2025-10-6--19-10-01
+Fried Spider Leg:750:2025-10-6--19-10-01
+Chicken and Broccoli:1300:2025-10-6--19-10-01
+Candied Lemon:2000:2025-10-6--19-10-01
+Barley Bread:2000:2025-10-6--19-10-01
+Bat: Confusing Double 3:10000:2025-10-6--19-10-01
+Bat: Bat Stability 3:8000:2025-10-6--19-10-01
+Bat: Deathscream 3:10000:2025-10-6--19-10-01
+Bat: Confusing Double 2:10000:2025-10-6--19-10-01
+Bat: Deathscream 2:10000:2025-10-6--19-10-01
+Weather Witching: Final Rites of Cae-a-Lee:5000:2025-10-6--19-10-01
+Pemphredo Eye:2900:2025-10-6--19-10-01
+Rage To Heat Potion:250:2025-10-6--19-10-01
+Weather Witch: Summon Doomstorm:10000:2025-10-6--19-10-01
+Extreme Rivets:2000:2025-10-6--19-10-01
+Whittling: Oak Butterfly Harness:10000:2025-10-6--19-10-01
+Bard: Blast of Defiance 9:10000:2025-10-6--19-10-01
+Pig: Frenzy 8:10000:2025-10-6--19-10-01
+Staff: Strategic Thrust 7:10000:2025-10-6--19-10-01
+Staff: Headcracker 6:10000:2025-10-6--19-10-01
+Rabbit: Snow Hare Mode 10:10000:2025-10-6--19-10-01
+Spirit Fox: Infectious Instincts 6:10000:2025-10-6--19-10-01
+Brass Fishhook:3000:2025-10-6--19-10-01
+Bone Hook:4500:2025-10-6--19-10-01
+Shoddy Leather Roll:50:2025-10-6--19-10-01
+Rough Leather Roll:125:2025-10-6--19-10-01
+Crude Leather Roll:150:2025-10-6--19-10-01
+Decent Leather Roll:175:2025-10-6--19-10-01
+Nice Leather Roll:200:2025-10-6--19-10-01
+Evil Grass:2500:2025-10-6--19-10-01
+Title: 'Ready To Be Sacrificed To Enoyos':20000:2025-10-6--19-10-01
+Title: 'Heavy Breather':20000:2025-10-6--19-10-01
+Title: 'Battle Yak':5000:2025-10-6--19-10-01
+Title: 'Surprise Bovinity':5000:2025-10-6--19-10-01
+Title: 'Dark Priest of Volmue':5000:2025-10-6--19-10-01
+Title: 'Earthy Flavor With Woody Notes':5000:2025-10-6--19-10-01
+Title: 'Udderly Infallible':5000:2025-10-6--19-10-01
+Title: 'Make It Bleed!':5000:2025-10-6--19-10-01
+Title: 'Extremely Bullheaded':5000:2025-10-6--19-10-01
+Title: 'Carries Their Home On Their Back':5000:2025-10-6--19-10-01
+Title: 'Snakey':5000:2025-10-6--19-10-01
+Title: 'Smells Like The Outdoors':5000:2025-10-6--19-10-01
+Title: 'Make It So':5000:2025-10-6--19-10-01
+Ratkin Tambourine:3000:2025-10-6--19-10-01
+Paleblood:10000:2025-10-6--19-10-01
+Spectracite:10000:2025-10-6--19-10-01
+Turkey Stir-Fry:10000:2025-10-6--19-10-01
+Treas:10000:2025-10-6--19-10-01
+Demonic Roast:10000:2025-10-6--19-10-01
+Broken Fishing Net:5000:2025-10-6--19-10-01
+Pixie Pocket:20000:2025-10-6--19-10-01
+Astounding Phlogiston:300:2025-10-6--19-10-01
+Candied Evu Fruit:20000:2025-10-6--19-10-01
+Fairy Peach Juice:20000:2025-10-6--19-10-01
+Tomato Soup:20000:2025-10-6--19-10-01
+Lemon-Glazed Tofurkey:5000:2025-10-6--19-10-01
+Human-Style Pizza:20000:2025-10-6--19-10-01
+Grizlark:10000:2025-10-6--19-10-01
+Mycology: Mushroom Turret 8:15000:2025-10-6--19-10-01
+Mycology: Mushroom Turret 6:15000:2025-10-6--19-10-01
+Mycology: Mushroom Turret 9:15000:2025-10-6--19-10-01
+Crone Coffee:20000:2025-10-6--19-10-01
+String:425:2025-10-6--19-10-01
+Banana:400:2025-10-6--19-10-01
+Basil:475:2025-10-6--19-10-01
+Cantaloupe:600:2025-10-6--19-10-01
+Coffee Beans:350:2025-10-6--19-10-01
+Ratkin Cheese Mold:250:2025-10-6--19-10-01
+Cooking: Yellowwhisker:2800:2025-10-6--19-10-01
+Jewelry Crafting: Amazing Battle-Priest's Pendant:5000:2025-10-6--19-10-01
+Necromancy: Life Crush 8:9995:2025-10-6--19-10-01
+Tailoring: Amazing Forest Masquerade Mask:4000:2025-10-6--19-10-01
+Weather Witching: Mope's Method:5000:2025-10-6--19-10-01
+Werewolf: Blood of the Pack 7:9995:2025-10-6--19-10-01
+Bear Claw:150:2025-10-6--19-10-01
+Cat Eyeball:100:2025-10-6--19-10-01
+Panther Tail:75:2025-10-6--19-10-01
+Snake Scales:200:2025-10-6--19-10-01
+Wolf Tail:100:2025-10-6--19-10-01
+Large-Capacity Item Vendor:2000:2025-10-6--19-10-01
+Thunderclap Potion:750:2025-10-6--19-10-01
+Decoction of String Performance Knowledge:500:2025-10-6--19-10-01
+Violet Seeds:50:2025-10-6--19-10-01
+Fly Amanita:200:2025-10-6--19-10-01
+Sour Cream:2000:2025-10-6--19-10-01
+Fae Honeycomb:3500:2025-10-6--19-10-01
+Bottle of Milk:95:2025-10-6--19-10-01
+Iocaine Practice Dose:150:2025-10-6--19-10-01
+Green Sparkler:50000:2025-10-6--19-10-01
+Iocaine Powder:300:2025-10-6--19-10-01
+Tailoring: Quality Bat Witch Hat:1800:2025-10-6--19-10-01
+Fried Potato Sticks:150:2025-10-6--19-10-01
+Feathers:500:2025-10-6--19-10-01
+Alchemy: Infinite Potion of Healing:2500:2025-10-6--19-10-01
+Cooking: Spicy Fried Tofu Cubes:1500:2025-10-6--19-10-01
+Azure Dye:1000:2025-10-6--19-10-01
+Unarmed: Bodyslam 2:2600:2025-10-6--19-10-01
+Unarmed: Knee Kick 5:4300:2025-10-6--19-10-01
+Lemon Shaved Ice:800:2025-10-6--19-10-01
+Necromancy Dust:40:2025-10-6--19-10-01
+Mushroom Substrate (Organs):200:2025-10-6--19-10-01
+Winterhue Seeds:100:2025-10-6--19-10-01
+Shark:100:2025-10-6--19-10-01
+Raw Oyster:500:2025-10-6--19-10-01
+Pearl:800:2025-10-6--19-10-01
+Auk Gur-Horta:1250:2025-10-6--19-10-01
+Perfect Conch:30000:2025-10-6--19-10-01
+Tailoring: Astounding Frigid Masquerade Mask:15999:2025-10-6--19-10-01
+Tailoring: Great Forest Masquerade Mask:19999:2025-10-6--19-10-01
+Tailoring: Quality Frigid Masquerade Mask:19999:2025-10-6--19-10-01
+Tailoring: Quality Shocking Masquerade Mask:19999:2025-10-6--19-10-01
+Tailoring: Nice Frigid Masquerade Mask:19999:2025-10-6--19-10-01
+Pixie's Parasol:199:2025-10-6--19-10-01
+Psychology: Mock 8:39999:2025-10-6--19-10-01
+Psychology: Mock 7:39999:2025-10-6--19-10-01
+Psychology: Mock 5:7000:2025-10-6--19-10-01
+Priest: Flamestrike:39999:2025-10-6--19-10-01
+Priest: Flamestrike 2:19999:2025-10-6--19-10-01
+Cooking: Evu Cream of Wheat:85000:2025-10-6--19-10-01
+Dandelion:2500:2025-10-6--19-10-01
+Desert Rose:2500:2025-10-6--19-10-01
+Spider Carapace:2500:2025-10-6--19-10-01
+Carded Cotton:380:2025-10-6--19-10-01
+Retted Flax:5999:2025-10-6--19-10-01
+Pumpkin:2000:2025-10-6--19-10-01
+Perfect Cotton:650:2025-10-6--19-10-01
+Poppy:2500:2025-10-6--19-10-01
+Vampirism: Exsanguinate 9:50000:2025-10-6--19-10-01
+Vampirism: Withering Shroud 9:30000:2025-10-6--19-10-01
+Autopsy Kit:95:2025-10-6--19-10-01
+Fae Phrenology Research 2:9000:2025-10-6--19-10-01
+Psychology: Mock 9:50000:2025-10-6--19-10-01
+Small Firework:10:2025-10-6--19-10-01
+Spirit Fox: Illusive Guise:2400:2025-10-6--19-10-01
+Alchemy: Imatia's Sight Potion:2997:2025-10-6--19-10-01
+Horse Ruby:3000:2025-10-6--19-10-01
+Pottery Shard:1000:2025-10-6--19-10-01
+Alchemy: Trollbane Oil:7000:2025-10-6--19-10-01
+Venison Roast:150:2025-10-6--19-10-01
+Ogre Stomach:250:2025-10-6--19-10-01
+Weak Power Regen Potion:250:2025-10-6--19-10-01
+Sword: Riposte 7:3000:2025-10-6--19-10-01
+Corn Seeds:200:2025-10-6--19-10-01
+Electric Cyan Dye:1000:2025-10-6--19-10-01
+Burly Wood Dye:1000:2025-10-6--19-10-01
+Sienna Dye:1000:2025-10-6--19-10-01
+Dwarfeye Blue Dye:1000:2025-10-6--19-10-01
+Lime Green Dye:1000:2025-10-6--19-10-01
+Pocket Expander Potion:1000:2025-10-6--19-10-01
+Light Steel Blue Dye:1000:2025-10-6--19-10-01
+Decoction of Lycanthropy Knowledge:1000:2025-10-6--19-10-01
+Decoction of Druid Knowledge:1000:2025-10-6--19-10-01
+Gloucester Cheese:900:2025-10-6--19-10-01
+Raclette Cheese:1000:2025-10-6--19-10-01
+Camembert Cheese:1200:2025-10-6--19-10-01
+Daredevil's Boon Potion:200:2025-10-6--19-10-01
+Saddlery: Great Mystic Saddlebag:5000:2025-10-6--19-10-01
+Tailoring: Astounding Nimble Coat:3000:2025-10-6--19-10-01
+Tailoring: Astounding Nimble Pants:7000:2025-10-6--19-10-01
+Telka's Teeth ("Incisor" Variety):1000:2025-10-6--19-10-01
+Battle Chemistry: Mutation: Extra Toes 9:8000:2025-10-6--19-10-01
+Expert's Armor Patch Kit:110:2025-10-6--19-10-01
+Master Armor Patch Kit:200:2025-10-6--19-10-01
+Cooking: Fried Lungfish:7500:2025-10-6--19-10-01
+Shamanic Infusion: Beginner's Scray Leg Infusion:1500:2025-10-6--19-10-01
+Odd Orcish Scroll:500:2025-10-6--19-10-01
+Horse Aphrodisiac:4250:2025-10-6--19-10-01
+Gardenmaster Potion:10000:2025-10-6--19-10-01
+Maintenance Oil:2500:2025-10-6--19-10-01
+Knife: Duelist's Slash 4:3000:2025-10-6--19-10-01
+Crimsonfelt Wings:1000:2025-10-6--19-10-01
+Cooking: Basic Fried Tofu Cubes:5000:2025-10-6--19-10-01
+Shamanic Infusion: Shaman's Scray Leg Infusion:10000:2025-10-6--19-10-01
+Huge Fae Honeycomb:12000:2025-10-6--19-10-01
+Broken Augment:1000:2025-10-6--19-10-01
+Unarmed: Headbutt 5:3750:2025-10-6--19-10-01
+Werewolf: Shadow Feint 4:2700:2025-10-6--19-10-01
+Werewolf: Shadow Feint 5:3300:2025-10-6--19-10-01
+Pig: Truffle Sniff 8:3100:2025-10-6--19-10-01
+Cow: Bash 7:3900:2025-10-6--19-10-01
+Necromancy: Raise Skeletal Ratkin Mage 7:7000:2025-10-6--19-10-01
+Sword: Precision Pierce 3:4500:2025-10-6--19-10-01
+Knife: Duelist's Slash 5:4500:2025-10-6--19-10-01
+Carpentry: Decent Priest Staff:5000:2025-10-6--19-10-01
+Werewolf: Pouncing Rend:5000:2025-10-6--19-10-01
+Sword: Debilitating Blow 6:30000:2025-10-6--19-10-01
+Oak Wood:100:2025-10-6--19-10-01
+Priest: Righteous Flame 9:30000:2025-10-6--19-10-01
+Leatherworking: Crude Evasion Boots:1000:2025-10-6--19-10-01
+Tailoring: Camouflaged Astounding Shirt:3000:2025-10-6--19-10-01
+Werewolf: Claw 8:6000:2025-10-6--19-10-01
+Thin Mesh Grate:900:2025-10-6--19-10-01
+Decoction of Crone Anatomy Knowledge:5000:2025-10-6--19-10-01
+Cooking: Tofu and Evu Fruit Skewers:2000:2025-10-6--19-10-01
+Astonishing Animal Skull:1000000:2025-10-6--19-10-01
+Alchemy: Basic Gur-Horta:6000:2025-10-6--19-10-01
+The Alchemist's Screams:1000:2025-10-6--19-10-01
+Phoenix Feather:20000:2025-10-6--19-10-01
+Ivory Horn:3000:2025-10-6--19-10-01
+Fae Wasp Stinger:3000:2025-10-6--19-10-01
+Butter Muslin:300:2025-10-6--19-10-01
+Icebreeze Moth Wings:3000:2025-10-6--19-10-01
+Piece of Violet Glass:200:2025-10-6--19-10-01
+Trophy Sheep Skin:2500:2025-10-6--19-10-01
+Trophy Cow Hide:2500:2025-10-6--19-10-01
+Trophy Rat Skin:1500:2025-10-6--19-10-01
+Knife: Duelist's Slash 6:3000:2025-10-6--19-10-01
+Barley:320:2025-10-6--19-10-01
+Tailoring: Astounding Spider Casings:2000:2025-10-6--19-10-01
+Tailoring: Camouflaged Astounding Pants:2050:2025-10-6--19-10-01
+Staff: Suppress 6:3700:2025-10-6--19-10-01
+Necromancy: Raise Skeletal Archer 8:3740:2025-10-6--19-10-01
+Psychology: Soothe 7:3620:2025-10-6--19-10-01
+Knife: Duelist's Slash 10:3820:2025-10-6--19-10-01
+Warden: Privacy Field 6:3460:2025-10-6--19-10-01
+Armorsmithing: Awesome Werewolf Foreguards:2225:2025-10-6--19-10-01
+Poppy Seeds:150:2025-10-6--19-10-01
+Pansy Seeds:100:2025-10-6--19-10-01
+Marigold Seeds:100:2025-10-6--19-10-01
+Daisy Seeds:350:2025-10-6--19-10-01
+Green Vexfish Fillet:300:2025-10-6--19-10-01
+Salmon Fillet:25000:2025-10-6--19-10-01
+Salmon:25000:2025-10-6--19-10-01
+Flinty Rock:100:2025-10-6--19-10-01
+Astounding First Aid Kit:250:2025-10-6--19-10-01
+Ur-Bacon:999:2025-10-6--19-10-01
+Lifeblood:999:2025-10-6--19-10-01
+Battle Chemistry: Mutation: Extra Heart 9:7000:2025-10-6--19-10-01
+Vampirism: Dominate 5:20000:2025-10-6--19-10-01
+Thistle Dye:300:2025-10-6--19-10-01
+Jewelry Crafting: Nice Battle-Priest's Pendant:3000:2025-10-6--19-10-01
+Tailoring: Camouflaged Amazing Shirt:4000:2025-10-6--19-10-01
+Jewelry Crafting: Nice Darkness Medallion:4000:2025-10-6--19-10-01
+Decoction of Battle Chemistry Knowledge:5000:2025-10-6--19-10-01
+Decoction of Ancillary Armor Augmentation Knowledge:5000:2025-10-6--19-10-01
+Decoction of Wind Performance Knowledge:5000:2025-10-6--19-10-01
+Unarmed: Bodyslam 3:5000:2025-10-6--19-10-01
+Weather Witch: Summon Doomstorm 5:5000:2025-10-6--19-10-01
+Tailoring: Camouflaged Decent Pants:2000:2025-10-6--19-10-01
+Leatherworking: Quality Evasion Boots:3000:2025-10-6--19-10-01
+Leatherworking: Nice Evasion Boots:3000:2025-10-6--19-10-01
+Tailoring: Add Psychic Damage to Cloth Shirt:3000:2025-10-6--19-10-01
+Leatherworking: Nice Evasion Leggings:3000:2025-10-6--19-10-01
+Tailoring: Camouflaged Nice Shirt:3000:2025-10-6--19-10-01
+Tailoring: Add Nature Damage to Cloth Shirt:4000:2025-10-6--19-10-01
+Saddlery: Nice Mystic Saddlebag:3000:2025-10-6--19-10-01
+Evu Fruit:4000:2025-10-6--19-10-01
+Bat: Deathscream 4:40000:2025-10-6--19-10-01

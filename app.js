@@ -73,25 +73,40 @@ function updateChartIfItemSelected() {
         displayPriceHistory(selectedItem.textContent);
     }
 }
+
 async function loadPriceData() {
-  try {
-    const response = await fetch(API_URL, {
-      mode: 'cors',
-      headers: {
-        'Content-Type': 'application/json'
-      }
-    });
-    
-    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-    
-    itemsData = await response.json();
-    populateItemList(Object.keys(itemsData).sort());
-    
-  } catch (error) {
-    console.error('Failed to load prices:', error);
-    showError('Failed to load price data. Please try again later.');
-  }
+    try {
+       
+        
+        // Try to load from cache first
+       
+
+        // Fetch from server
+        const response = await fetch(API_URL, {
+            headers: {
+                'Accept': 'application/json',
+                'Cache-Control': 'no-cache'
+            }
+        });
+
+        if (!response.ok) {
+            throw new Error(`Server error: ${response.status}`);
+        }
+
+        itemsData = await response.json();
+       
+        populateItemList(Object.keys(itemsData).sort());
+
+    } catch (error) {
+      
+       
+        
+    } finally {
+      
+    }
 }
+
+
 // Handle file loading
 async function loadDataFromGitHub() {
     try {

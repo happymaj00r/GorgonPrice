@@ -70,7 +70,20 @@ function updateChartIfItemSelected() {
 // Handle file loading
 async function loadFilesFromServer() {
     try {
-        const response = await fetch('Data/');
+        const response = await fetch('https://api.github.com/repos/happymaj00r/GorgonPrice/contents/Data')
+  .then(response => response.json())
+  .then(files => {
+    const textFiles = files.filter(file => file.name.endsWith('.txt'));
+    textFiles.forEach(file => {
+      fetch(file.download_url)
+        .then(response => response.text())
+        .then(content => {
+          console.log(`File: ${file.name}`, content);
+          // Process the file content here
+        });
+    });
+  })
+  .catch(error => console.error('Error fetching files:', error));
         if (!response.ok) {
             alert('Failed to fetch file list from server');
             return;

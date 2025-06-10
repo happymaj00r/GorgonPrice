@@ -70,6 +70,7 @@ function updateChartIfItemSelected() {
 // Handle file loading
 async function loadFilesFromServer() {
     try {
+         alert('Test');
         const response = await fetch('https://raw.githubusercontent.com/happymaj00r/GorgonPrice/refs/heads/main/Data/Shops2025-10-6--19-10-01.txt');
         if (!response.ok) {
             alert('Failed to fetch file list from server');

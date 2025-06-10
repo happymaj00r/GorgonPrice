@@ -16,10 +16,10 @@ const endDate = document.getElementById('endDate');
 const toggleTrendLine = document.getElementById('toggleTrendLine');
 
 // Initialize the app
-function init() {
+async function init() {
     setupEventListeners();
     setDefaultDates();
-    loadFilesFromServer(); // Load files from server on startup
+    await loadDataFromGitHub(); // Load files from server on startup
 }
 
 // Set default date range (last 30 days)
@@ -68,41 +68,45 @@ function updateChartIfItemSelected() {
 }
 
 // Handle file loading
-async function loadFilesFromServer() {
+async function loadDataFromGitHub() {
     try {
-         alert('Test');
-        const response = await fetch(Data/' + file.replace(/^.*[\\/]/, ''));
+        loadingSpinner.style.display = 'block';
+        
+        const response = await fetch('https://api.github.com/repos/happymaj00r/GorgonPrice/contents/Data');
         if (!response.ok) {
-            alert('Failed to fetch file list from server');
-            return;
+            throw new Error('Failed to fetch file list from GitHub');
         }
-        const html = await response.text();
-        // Parse directory listing for .txt files
-        const fileLinks = Array.from(new DOMParser().parseFromString(html, 'text/html').querySelectorAll('a'))
-            .map(a => a.getAttribute('href'))
-            .filter(href => href && href.endsWith('.txt'));
-
-        if (fileLinks.length === 0) {
-            alert('No .txt files found in Data folder');
-            return;
+        
+        const files = await response.json();
+        const textFiles = files.filter(file => file.name.endsWith('.txt'));
+        
+        if (textFiles.length === 0) {
+            throw new Error('No text files found in repository');
         }
-
-        itemsData = {}; // Reset data
-
-        const fetches = fileLinks.map(async (file) => {
-            const fileUrl = 'Data/' + file.replace(/^.*[\\/]/, '');
-            const res = await fetch(fileUrl);
-            if (res.ok) {
-                const text = await res.text();
-                processFileData(text, file);
+        
+        // Process each file sequentially to avoid rate limits
+        for (const file of textFiles) {
+            try {
+                const fileResponse = await fetch(file.download_url);
+                if (!fileResponse.ok) {
+                    console.warn(`Failed to fetch file ${file.name}`);
+                    continue;
+                }
+                
+                const content = await fileResponse.text();
+                processFileData(content, file.name);
+            } catch (error) {
+                console.error(`Error processing file ${file.name}:`, error);
             }
-        });
-
-        await Promise.all(fetches);
+        }
+        
         populateItemList(Object.keys(itemsData).sort());
-        //alert(`Loaded ${fileLinks.length} files with ${Object.keys(itemsData).length} unique items`);
-    } catch (err) {
-        alert('Error loading files from server: ' + err.message);
+        loadingSpinner.style.display = 'none';
+        
+    } catch (error) {
+        console.error('Error loading data:', error);
+        loadingSpinner.style.display = 'none';
+        alert(`Error loading price data: ${error.message}`);
     }
 }
 function handleFileLoad() {
@@ -331,3 +335,6 @@ function calculateTrendLine(data) {
 
 // Initialize the app when DOM is loaded
 document.addEventListener('DOMContentLoaded', init);
+
+// Initialize the app when DOM is loaded
+

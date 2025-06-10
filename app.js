@@ -76,32 +76,42 @@ function updateChartIfItemSelected() {
 
 async function loadPriceData() {
     try {
-       
+        loadingSpinner.style.display = 'block';
         
-        // Try to load from cache first
-       
-
-        // Fetch from server
-       const response = await fetch(API_URL, {
-    headers: {
-        'Accept': 'application/json'
-    }
-});
+        const response = await fetch(API_URL, {
+            headers: {
+                'Accept': 'application/json'
+            }
+        });
 
         if (!response.ok) {
             throw new Error(`Server error: ${response.status}`);
         }
 
-        itemsData = await response.json();
-       
-        populateItemList(Object.keys(itemsData).sort());
-
-    } catch (error) {
-      
-       
+        const responseData = await response.json();
         
+        if (responseData.status === 'success') {
+            itemsData = responseData.data;
+            populateItemList(Object.keys(itemsData).sort());
+            
+            // Log for debugging
+            console.log('Loaded price data:', {
+                itemsCount: Object.keys(itemsData).length,
+                sampleItem: Object.keys(itemsData)[0],
+                sampleData: itemsData[Object.keys(itemsData)[0]]
+            });
+        } else {
+            throw new Error('Server returned unsuccessful status');
+        }
+        
+    } catch (error) {
+        console.error('Error loading price data:', error);
+        alert('Failed to load price data. Please try again later.');
+        
+        // If you have fallback data loading mechanism, call it here
+        // await loadDataFromGitHub();
     } finally {
-      
+        loadingSpinner.style.display = 'none';
     }
 }
 

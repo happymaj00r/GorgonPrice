@@ -1,3 +1,4 @@
+const API_URL = 'http://45.89.125.179:3000/api/prices';
 // Global variables
 let itemsData = {};
 let priceChart = null;
@@ -18,9 +19,14 @@ const toggleTrendLine = document.getElementById('toggleTrendLine');
 
 // Initialize the app
 async function init() {
-    setupEventListeners();
-    setDefaultDates();
-    await loadDataFromGitHub(); // Load files from server on startup
+    try {
+        setupEventListeners();
+        setDefaultDates();
+        await loadPriceData();
+    } catch (error) {
+        
+        
+    }
 }
 
 // Set default date range (last 30 days)
@@ -67,7 +73,36 @@ function updateChartIfItemSelected() {
         displayPriceHistory(selectedItem.textContent);
     }
 }
+async function loadPriceData() {
 
+ try {
+        loadingSpinner.style.display = 'block';
+        const apiUrl = API_URL.startsWith('http') ? API_URL : `http://${API_URL}`;
+        const response = await fetch(apiUrl, {
+            mode: 'cors', // Important for cross-origin requests
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        });
+        if (!response.ok) {
+            throw new Error(`Server responded with ${response.status}`);
+        }
+        
+        itemsData = await response.json();
+        populateItemList(Object.keys(itemsData).sort());
+        
+    } catch (error) {
+        console.error('Data loading failed:', error);
+        showError('Failed to load prices: ' + error.message);
+        // Optional: Try to load from localStorage cache
+        tryLoadFromCache();
+    } finally {
+       loadingSpinner.style.display = 'none';
+    }
+
+
+   
+}
 // Handle file loading
 async function loadDataFromGitHub() {
     try {

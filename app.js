@@ -1,4 +1,4 @@
-const API_URL = 'http://45.89.125.179:3000/api/prices';
+const API_URL = 'https://gorgonprice.duckdns.org/api/prices';
 // Global variables
 let itemsData = {};
 let priceChart = null;
@@ -74,34 +74,23 @@ function updateChartIfItemSelected() {
     }
 }
 async function loadPriceData() {
-
- try {
-        loadingSpinner.style.display = 'block';
-        const apiUrl = API_URL.startsWith('http') ? API_URL : `http://${API_URL}`;
-        const response = await fetch(apiUrl, {
-            mode: 'cors', // Important for cross-origin requests
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        });
-        if (!response.ok) {
-            throw new Error(`Server responded with ${response.status}`);
-        }
-        
-        itemsData = await response.json();
-        populateItemList(Object.keys(itemsData).sort());
-        
-    } catch (error) {
-        console.error('Data loading failed:', error);
-        showError('Failed to load prices: ' + error.message);
-        // Optional: Try to load from localStorage cache
-        tryLoadFromCache();
-    } finally {
-       loadingSpinner.style.display = 'none';
-    }
-
-
-   
+  try {
+    const response = await fetch(API_URL, {
+      mode: 'cors',
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    });
+    
+    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+    
+    itemsData = await response.json();
+    populateItemList(Object.keys(itemsData).sort());
+    
+  } catch (error) {
+    console.error('Failed to load prices:', error);
+    showError('Failed to load price data. Please try again later.');
+  }
 }
 // Handle file loading
 async function loadDataFromGitHub() {

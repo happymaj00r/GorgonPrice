@@ -11,6 +11,7 @@ const priceChartCtx = document.getElementById('priceChart').getContext('2d');
 const selectedItemTitle = document.getElementById('selectedItemTitle');
 //const fileInput = document.getElementById('fileInput');
 //const loadFilesBtn = document.getElementById('loadFilesBtn');
+const loadingSpinner = document.getElementById('loadingSpinner'); // Properly defined now
 const startDate = document.getElementById('startDate');
 const endDate = document.getElementById('endDate');
 const toggleTrendLine = document.getElementById('toggleTrendLine');
